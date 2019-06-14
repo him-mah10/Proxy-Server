@@ -1,5 +1,5 @@
 <h1 align="center"> Proxy Server</h1>
-An HTTP proxy server implemented via python socket programming with caching, blacklisting, authentication functionality.
+An HTTP proxy server implemented via python socket programming with caching, blacklisting, authentication functionality. For further details please refer to Description.pdf
 
 #### AUTHORS 
 * Himanshu Maheshwari
