@@ -2,8 +2,8 @@
 An HTTP proxy server implemented via python socket programming with caching, blacklisting, authentication functionality.
 
 #### AUTHORS 
-* Himanshu Maheshwari(20171033)
-* Aayush Goel(20171188)
+* Himanshu Maheshwari
+* Aayush Goel
 
 #### Description
 * ps.py is the proxy server
